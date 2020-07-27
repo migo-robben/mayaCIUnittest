@@ -6,4 +6,4 @@ class TestHelloWorld(unittest.TestCase):
         a = 1
         b = 2
         c = a + b
-        self.assertEqual(c, 3, "Result Error.")
+        self.assertEqual(c, 4, "Result Error.")
